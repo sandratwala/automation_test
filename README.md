@@ -1,0 +1,4 @@
+Here is what i learnt from this exercise:
+I learned how to structure clean test suites. I figured out how to group related test scenarios using describe() and it() blocks, and how to use lifecycle hooks like beforeEach() and afterEach() to efficiently manage application state.
+I learned how to target web elements reliably. I practiced navigating the DOM using advanced traversal methods like .find(), .eq(), and .within(). I also discovered why using unique IDs and custom data-cy attributes is critical for building stable tests that do not break during visual updates.
+I learned how to simulate user actions and validate behaviors. I mastered executing commands like .select(), .check(), and keyboard shortcuts, and pairing them with precise assertions like be.visible and have.value to verify exactly how a webpage responds.
